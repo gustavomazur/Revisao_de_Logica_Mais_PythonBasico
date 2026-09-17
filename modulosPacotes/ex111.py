@@ -1,4 +1,4 @@
-from exercio110 import moeda
+from exercio111.utilidades import moeda
 
 p = float(input('Digite o preço R$'))
 """

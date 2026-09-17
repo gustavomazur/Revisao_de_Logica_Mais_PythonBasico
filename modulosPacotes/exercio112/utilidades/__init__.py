@@ -1,1 +1,1 @@
-from exercio111.utilidades import moeda, dado
+from exercio112.utilidades import moeda, dado
