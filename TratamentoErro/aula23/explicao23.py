@@ -50,6 +50,6 @@ except ZeroDivisionError:
 except KeyboardInterrupt:
     print('O usuário prefeiru não informar os dados!')
 else:
-    print(f'O resultado é {r:.2f}')
+    print(f'O resultado é {r:.1f}')
 finally:
     print('Volte sempre! Muito Obrigado!')
