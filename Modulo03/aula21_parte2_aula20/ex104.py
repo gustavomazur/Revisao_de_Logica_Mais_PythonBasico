@@ -13,4 +13,5 @@ def leiaInt(numero):
     return valor
 
 n = leiaInt('Digite um numero inteiro: ')
-print(f'O valor digitado foi {n}')
+print(f'O valor digitado foi {n} e interio ')
+
