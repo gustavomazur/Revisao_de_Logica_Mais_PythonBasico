@@ -10,15 +10,26 @@ Exercícios praticados cobrindo saída, entrada, variáveis, matemática, módul
 
 ## Estrutura
 
-### Aula 01 — Saída, entrada, variáveis e matemática básica
+### Aula 01 — Saída e entrada
 
 | Exercício | Tema |
 |-----------|------|
-| ex00 | Hello World |
-| ex01 | Input + saudação com nome |
-| ex02 | Formatação de strings com `.format()` |
-| ex03 | Soma de dois números inteiros |
-| ex04 | Verificação de tipo com `type()` |
+| ex01 | Hello World |
+| ex02 | Input + saudação com nome (formatação com `.format()`) |
+
+### Aula 06 — Tipos primitivos
+
+| Exercício | Tema |
+|-----------|------|
+| aula_06.py | Tipos primitivos: `int`, `float`, `bool` e `str` |
+| ex03 | Soma de dois números inteiros + verificação com `type()` |
+| ex04 | Dissecando uma variável — `isnumeric()`, `isalpha()`, `isspace()`... |
+
+### Aula 07 — Operadores aritméticos
+
+| Exercício | Tema |
+|-----------|------|
+| aula_07.py | Operadores: `+`, `-`, `*`, `/`, `**`, `//` e `%` |
 | ex05 | Sucessor e antecessor |
 | ex06 | Dobro, triplo e raiz quadrada |
 | ex07 | Média aritmética de duas notas |
@@ -73,17 +84,7 @@ Exercícios praticados cobrindo saída, entrada, variáveis, matemática, módul
 |-----------|------|
 | ex36 | Códigos de escape ANSI para cores de texto e fundo, dicionário de cores |
 
-## Como rodar
-
-```bash
-python Modulo01/aula01/ex01.py
-python Modulo01/aula08/ex15.py
-python Modulo01/aula09/aula09.py
-python Modulo01/aula10/aula10.py
-python Modulo01/aula11/aula11.py
-```
-
 ## Observações
 
-- As pastas `aula02` a `aula07` não existem neste repositório — essas aulas são teóricas no curso.
+- As pastas `aula02` a `aula05` não existem neste repositório — essas aulas são teóricas no curso; a prática começa na aula 06 (tipos primitivos).
 - O arquivo `aula08/mario.mp3` é o áudio usado pelo exercício ex21 (requer `pygame`).
