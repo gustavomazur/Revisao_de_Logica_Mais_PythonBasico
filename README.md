@@ -2,14 +2,9 @@
 
 Repositório com os meus estudos e exercícios do **Curso em Vídeo** (Gustavo Guanabara):
 
-- **Git & GitHub** — anotações e práticas do curso.
+
 - **Python** — exercícios dos módulos do curso Mundo Python.
 
-## 📚 Cursos
-
-| Curso | O que tem dentro | README |
-|-------|------------------|--------|
-| Git & GitHub | Tarefa da Aula 04 (issue), links do curso, manual PDF e anotações de linguagem Markdown | [Curso-GitHUB/README.md](Curso-GitHUB/README.md) |
 
 ## 🐍 Python — Mundo Python
 
